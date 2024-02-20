@@ -3,7 +3,7 @@
 This project is focused on conducting handling analysis using a single-track vehicle model. In this model, the wheels on the front and rear axles are simplified into one front tire and one rear tire. The analysis assumes very small angles and considers the tires to operate within the linear region of their performance.
 
 <div style="text-align: center;">
-    <img src=" " alt="Time Domain Analysis" width = "200"  />
+    <img src="https://github.com/MoBehtash/linear_single_track_vehicle/blob/main/images/schematic.jpg " alt="Time Domain Analysis" width = "500"  />
     <p><em>Figure 1: Schematic of the Single-Track (Bicycle) Model</em></p>
 </div>
 
@@ -20,10 +20,10 @@ This project is focused on conducting handling analysis using a single-track veh
 ## Results
 You can visualize the results of the suspension analysis below:
 
-![Time Domain Analysis]( )
+![Time Domain Analysis](https://github.com/MoBehtash/linear_single_track_vehicle/blob/main/images/time_res.jpg )
 *Figure 2: Example of Time Domain Analysis*
 
-![Frequency Domain Analysis]()
+![Frequency Domain Analysis](https://github.com/MoBehtash/linear_single_track_vehicle/blob/main/images/freq_res.jpg)
 *Figure 3: Example of Frequency Domain Analysis*
 
 ## Disclaimer
