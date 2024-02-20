@@ -18,7 +18,7 @@ This project is focused on conducting handling analysis using a single-track veh
 -**Small Angle Assumption:** The analysis assumes very small angles, which may not hold true in all real-world scenarios.
 
 ## Results
-You can visualize the results of the suspension analysis below:
+You can visualize the results below:
 
 ![Time Domain Analysis](https://github.com/MoBehtash/linear_single_track_vehicle/blob/main/images/time_res.jpg )
 *Figure 2: Example of Time Domain Analysis*
