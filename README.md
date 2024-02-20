@@ -2,9 +2,13 @@
 
 This project is focused on conducting handling analysis using a single-track vehicle model. In this model, the wheels on the front and rear axles are simplified into one front tire and one rear tire. The analysis assumes very small angles and considers the tires to operate within the linear region of their performance.
 
+<div style="text-align: center;">
+    <img src=" " alt="Time Domain Analysis" width = "200"  />
+    <p><em>Figure 1: Schematic of the Single-Track (Bicycle) Model</em></p>
+</div>
 
 ## Features
--**Time Domain Analysis:** Understand how the vehicle reacts dynamically to a sudden steering input, providing insights into its transient behavior.
+-**Time Domain Analysis:** Understand how the vehicle reacts dynamically to sudden steering input, providing insights into its transient behavior.
 
 -**Frequency Domain Analysis:** Gain insights into the vehicle's frequency response characteristics, which are crucial for understanding stability and control.
 
@@ -16,8 +20,14 @@ This project is focused on conducting handling analysis using a single-track veh
 ## Results
 You can visualize the results of the suspension analysis below:
 
+![Time Domain Analysis]( )
+*Figure 2: Example of Time Domain Analysis*
+
+![Frequency Domain Analysis]()
+*Figure 3: Example of Frequency Domain Analysis*
+
 ## Disclaimer
-Please note that while this vehicle model and analysis framework can provide valuable insights, there is no guarantee of its accuracy in representing real-world vehicle behavior. The model's simplicity and assumptions may not fully capture the complexities of actual automotive vehicle.
+Please note that while this vehicle model and analysis framework can provide valuable insights, there is no guarantee of its accuracy in representing real-world vehicle behavior. The model's simplicity and assumptions may not fully capture the complexities of actual automotive vehicles.
 
 **Note:** Feel free to contribute, share your insights, or open issues for discussion. Collaboration is key to expanding our understanding of vehicle dynamics.
 
