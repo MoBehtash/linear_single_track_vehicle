@@ -29,8 +29,6 @@ You can visualize the results below:
 ## Disclaimer
 Please note that while this vehicle model and analysis framework can provide valuable insights, there is no guarantee of its accuracy in representing real-world vehicle behavior. The model's simplicity and assumptions may not fully capture the complexities of actual automotive vehicles.
 
-**Note:** Feel free to contribute, share your insights, or open issues for discussion. Collaboration is key to expanding our understanding of vehicle dynamics.
-
 
 ## Languages and Utilities Used
 - Python 3.12</b>
